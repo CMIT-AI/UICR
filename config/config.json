@@ -1,0 +1,17 @@
+{
+    "NAMES": ["text","icon","button","input","start_icon",
+              "settings_icon","toggle_button_on","close_icon","ime_icon","max_icon",
+              "min_icon","restore_icon","back_icon","forward_icon","mouse",
+              "window_top","taskbar","toggle_button_off","search_icon","task_icon","network_icon","volume_icon",
+              "list","checkbox_on","checkbox_off","window","window_max","menu","scroll_bar","notification_icon",
+              "ie_icon","edge_icon","folder_icon","power_icon","control_icon","table","activity","first_page","previous_page",
+              "next_page","last_page","Filter_icon"],
+    "COLORS": [[83,50,250],[245,61,61],[77,106,255],[128,51,115],[83,179,36],
+               [102,255,102],[49,147,245],[255,211,51],[250,183,50],[240,120,240],
+               [51,204,255],[179,134,89],[80,80,178],[209,240,170],[240,120,140],
+               [12,13,13],[143,142,91],[81,182,240],[5,109,23],[204,0,255],[109,75,11],[62,24,99],
+               [172,87,194],[51,153,204],[8,73,105],[168,10,35],[3,110,71],[42,241,226],[41,70,15],[241,159,228],
+               [77,43,12],[94,131,94],[81,69,100],[0,255,72],[255,213,0],[63,18,63],[156,142,187],[49,13,230],[24,7,109],
+               [165,14,38],[110,6,22],[46,46,70]],
+    "SAVE_IMG_DIR": "saved_imgs"
+}
