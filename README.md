@@ -25,6 +25,7 @@ git clone https://github.com/CMIT-AI/UICR.git
 建议以docker形式运行
 
 docker build -t uicr:latest -f Dockerfile
+
 docker run -d --gpus all -p 39060:39060 -v {your/host/path}:/cmit/data
 
 ### 配置
